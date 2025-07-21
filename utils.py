@@ -1,6 +1,6 @@
 import base64
 
-DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1395890455643684964/bykCWFWIPxAqWMTAYM0dyaHEegbX0nTaa7Aco2Bb9VweF2NIjesvaB9ASjGTBfiZY85k'
+DISCORD_WEBHOOK_URL = ''
 
 def encrypt_message(message: str) -> str:
     # Simple base64 encoding as "encryption"
